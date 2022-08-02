@@ -7,7 +7,7 @@
 
 I'm a software developer who is passionate about technology . I enjoy working with PHP, including (Laravel Framework).
 
-- 🔭 I'm a software developer [@Panorama Alqassim](https://www.panorama-q.com/) in Mansoura, Egypt
+- 🔭 I'm a software developer [@Oplus Events](https://oplus.ae/) in Dubai, United Arab Emirates
 <!-- - 🔍 <p>I have 2 live apps: </p> -->
 <!--   - <p>[Quran-tab (chrome extension)](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)</p> -->
 <!--   - <p>Wazaker App ([Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))</p> -->

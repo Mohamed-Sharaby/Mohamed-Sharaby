@@ -9,9 +9,12 @@
   
 <!--   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/> -->
 
+<div align=center">
 I'm a software developer with a passion for developing innovative web applications that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly . I enjoy working with PHP, including (Laravel Framework).
-
+                  </div>
+                  
 - 🔭 I'm a software developer [@ Oplus Events](https://oplus.ae/) in Dubai, United Arab Emirates
+                  
 <!-- - 🔍 <p>I have 2 live apps: </p> -->
 <!--   - <p>[Quran-tab (chrome extension)](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)</p> -->
 <!--   - <p>Wazaker App ([Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))</p> -->

@@ -1,4 +1,7 @@
 <h1 align="center">Hi I'm Mohamed 👋</h1>
+<div align="center">
+<img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="400">
+</div>
 <p align="center">
     <a href="https://www.linkedin.com/in/mohamed-sharaby-663b6525/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>

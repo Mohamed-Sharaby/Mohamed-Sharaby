@@ -14,7 +14,7 @@ I'm a software developer with a passion for developing innovative web applicatio
                   </div>
                   <br>
                   
--   :computer: I'm a software developer [@ Oplus Events](https://oplus.ae/) in Dubai, United Arab Emirates
+-   :computer: I'm a software developer [@ Oplus Events](https://oplus.ae/) in Dubai, United Arab Emirates .
                   
 <!-- - 🔍 <p>I have 2 live apps: </p> -->
 <!--   - <p>[Quran-tab (chrome extension)](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)</p> -->

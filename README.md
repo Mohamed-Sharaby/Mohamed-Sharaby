@@ -9,7 +9,7 @@
   
 <!--   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/> -->
 
-<div align=center">
+<div align="center">
 I'm a software developer with a passion for developing innovative web applications that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly . I enjoy working with PHP, including (Laravel Framework).
                   </div>
                   

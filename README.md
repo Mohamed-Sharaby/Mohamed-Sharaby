@@ -12,6 +12,7 @@
 <div align="center">
 I'm a software developer with a passion for developing innovative web applications that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly . I enjoy working with PHP, including (Laravel Framework).
                   </div>
+                  <br>
                   
 - 🔭 I'm a software developer [@ Oplus Events](https://oplus.ae/) in Dubai, United Arab Emirates
                   

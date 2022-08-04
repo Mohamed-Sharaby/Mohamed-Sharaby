@@ -4,6 +4,7 @@
 </div>
 <p align="center">
     <a href="https://www.linkedin.com/in/mohamed-sharaby-663b6525/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:moh.sharaby@yahoo.com"><img src="https://img.shields.io/badge/Email-My%20Email%20Address-orange" alt="My Email Account" /></a>
   </p>
   
 <!--   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/> -->
